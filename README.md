@@ -2,7 +2,7 @@
 
 In this activity, I learned Python and Javascript to implement sorting algorithms, bubble sort and insertion sort. 
 
-I've included the source code for both bubble sort and insertion sort after I had written those algorithms in pseudocode. Writing them in pseudocode first made me 
+I have included the source code for both bubble sort and insertion sort after I had written those algorithms in pseudocode. Writing them in pseudocode first made me 
 understand the the concepts that I needed to learn for both langugaes.
 
 
