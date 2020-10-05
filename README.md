@@ -1,4 +1,4 @@
-# Lab-Activity-3
+# Lab Activity 3
 
 In this activity, I learned Python and Javascript to implement sorting algorithms, bubble sort and insertion sort. 
 
