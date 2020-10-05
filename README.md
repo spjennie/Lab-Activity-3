@@ -7,12 +7,12 @@ understand the the concepts that I needed to learn for both langugaes.
 
 
 ## Submission
-[x] pseudocode for bubble sort
-[x] pseudocode for insertion sort
-[x] langugage reference guide for python
-[x] language reference guide for javascript
-[x] source code for bubble sort in python
-[x] source code for insertion sort in javascript
+* [x] pseudocode for bubble sort
+* [x] pseudocode for insertion sort
+* [x] langugage reference guide for python
+* [x] language reference guide for javascript
+* [x] source code for bubble sort in python
+* [x] source code for insertion sort in javascript
 
 
 
