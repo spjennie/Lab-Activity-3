@@ -1,0 +1,9 @@
+During this assignment I learned Python and Javascript to implement sorting algorithms, bubble sort and insertion sort. I have implemented these algorithms using Java
+before so I was familiar with them. I have also seen and used basic Javascript before, so the syntax was a bit familiar. The syntax for Javascript was similar to
+Java. The for loop I used for the insertion sort was the same in Java, for(int i = 0; i < length; i++) so I was comfortable using it. Other syntax was similar, such as
+using a semi-colon to end each statement. After this assignment I am comfortable coding in Javascript. Python was challening to me because I have never seen the language
+before and the syntax was different from any language I have learned. I implemented bubble sort using Python and a difference that I saw compared to Javascript was 
+that I used : at the end of every statement instead of ;. Also for for loops Python's syntax is for i in range(n-1):. Instead of assigning a number and increasing it 
+to traverse a length, Python's syntax is more straightforward. Also for if conditionals, Python doesn't need ( ) aroudn the statement. For example, if arr[j] > arr[j+1].
+In Javascript, the same if conditional would look like, if (arr[j] > arr[j+1]). Although Python's syntax took a bit of time to get used to, I enjoyed using it for this 
+assignment and I look forward to using it in future assignments. 
