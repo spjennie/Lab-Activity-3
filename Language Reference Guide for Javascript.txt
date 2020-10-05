@@ -1,0 +1,17 @@
+start the for loop at 1 because in the first step, the sub-array only contains the value at index 0 and has a length of 1
+	 for (let i = 1; i < length; i++)
+
+add the key to inputArr[j + 1] because inputArr[j] would correspond to the first item in the sub-array whose value is less than the key's value
+	 inputArr[j + 1] = key;
+
+while conditional
+	while (j >= 0 && inputArr[j] > key)
+
+assignment statements
+	let length = inputArr.length;
+	let i = 1
+	let key = inputArr[i];
+	let j = i - 1;
+
+for loop
+	for (let i = 1; i < length; i++)
